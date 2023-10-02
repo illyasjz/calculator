@@ -1,0 +1,2 @@
+# calculator
+calcutor by qt 
